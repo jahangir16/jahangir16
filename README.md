@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jahangir16
-- 👀 I’m interested in frontend & backend
+- 👀 I’m interested in WEB DEVELOPNMENT
 - 🌱 I’m currently learning laravel
 - 📫 How to reach me ...(Email)
 
